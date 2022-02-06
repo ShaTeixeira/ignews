@@ -7,33 +7,25 @@
 <p align="center">
   IGNEWS - Portal de notícias 📰🚀
   <br>
-  <br>
-
-  <img alt="Language count" src="https://img.shields.io/github/repo-size/khalleb/ignews"/>
-
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+  
+  <img alt="Language count" src="https://img.shields.io/github/repo-size/shateixeira/ignews"/>
+  <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%237519C1">
+  <a href="https://www.linkedin.com/in/shayane-teixeira-4520b2196/">
+    <img alt="Made by Shayane" src="https://img.shields.io/badge/made%20by-ShayTeixeira-%237519C1">
   </a>
-
-  <a href="https://www.linkedin.com/in/khalleb/">
-    <img alt="Made by Khalleb" src="https://img.shields.io/badge/made%20by-khalleb-%237519C1">
+  <a href="https://github.com/shateixeira/ignews/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/shateixeira/ignews">
   </a>
-
-  <a href="https://github.com/khalleb/ignews/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/khalleb/ignews">
-  </a>
-
-  <img alt="License" src="https://img.shields.io/github/license/khalleb/ignews">
+  <img alt="License" src="https://img.shields.io/github/license/shateixeira/ignews">
 </p>
 
 ---
 
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-começando">Começando</a> &#xa0; &#xa0; | &#xa0;
-  <a href="#framed_picture-imagens">Imagens</a> &#xa0; &#xa0;
+  <a href="#dart-sobre">Sobre</a> | 
+  <a href="#rocket-tecnologias">Tecnologias</a>  |
+  <a href="#white_check_mark-requerimentos">Requerimentos</a> | 
+  <a href="#checkered_flag-começando">Começando</a> 
 </p>
 
 <br>
